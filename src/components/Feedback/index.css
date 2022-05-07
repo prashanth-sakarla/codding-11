@@ -1,0 +1,6 @@
+/* Write your CSS code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  background-size: cover;
+  height: 100vh;
+}
